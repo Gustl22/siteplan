@@ -87,9 +87,9 @@
 					<version>master-SNAPSHOT</version>
 				</dependency>
 				<dependency>
-					<groupId>com.github.twak</groupId>
+					<groupId>com.github.gustl22</groupId>
 					<artifactId>campskeleton</artifactId>
-					<version>master-SNAPSHOT</version>
+					<version>jitpack-SNAPSHOT</version>
 				</dependency>
 			</dependencies>
 
